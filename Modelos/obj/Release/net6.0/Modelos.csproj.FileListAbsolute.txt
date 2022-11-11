@@ -1,0 +1,14 @@
+D:\BackendLastmen-master\Modelos\bin\Release\net6.0\Modelos.deps.json
+D:\BackendLastmen-master\Modelos\bin\Release\net6.0\Modelos.runtimeconfig.json
+D:\BackendLastmen-master\Modelos\bin\Release\net6.0\Modelos.dll
+D:\BackendLastmen-master\Modelos\bin\Release\net6.0\Modelos.pdb
+D:\BackendLastmen-master\Modelos\obj\Release\net6.0\Modelos.csproj.AssemblyReference.cache
+D:\BackendLastmen-master\Modelos\obj\Release\net6.0\Modelos.GeneratedMSBuildEditorConfig.editorconfig
+D:\BackendLastmen-master\Modelos\obj\Release\net6.0\Modelos.AssemblyInfoInputs.cache
+D:\BackendLastmen-master\Modelos\obj\Release\net6.0\Modelos.AssemblyInfo.cs
+D:\BackendLastmen-master\Modelos\obj\Release\net6.0\Modelos.csproj.CoreCompileInputs.cache
+D:\BackendLastmen-master\Modelos\obj\Release\net6.0\Modelos.dll
+D:\BackendLastmen-master\Modelos\obj\Release\net6.0\refint\Modelos.dll
+D:\BackendLastmen-master\Modelos\obj\Release\net6.0\Modelos.pdb
+D:\BackendLastmen-master\Modelos\obj\Release\net6.0\Modelos.genruntimeconfig.cache
+D:\BackendLastmen-master\Modelos\obj\Release\net6.0\ref\Modelos.dll

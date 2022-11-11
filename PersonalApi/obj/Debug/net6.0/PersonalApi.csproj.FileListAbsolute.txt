@@ -631,3 +631,4 @@ D:\BackendLastmen-master\PersonalApi\obj\Debug\net6.0\refint\PersonalApi.dll
 D:\BackendLastmen-master\PersonalApi\obj\Debug\net6.0\PersonalApi.pdb
 D:\BackendLastmen-master\PersonalApi\obj\Debug\net6.0\PersonalApi.genruntimeconfig.cache
 D:\BackendLastmen-master\PersonalApi\obj\Debug\net6.0\ref\PersonalApi.dll
+D:\BackendLastmen-master\PersonalApi\bin\Debug\net6.0\web.config

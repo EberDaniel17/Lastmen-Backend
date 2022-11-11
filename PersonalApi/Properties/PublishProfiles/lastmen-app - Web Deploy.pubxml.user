@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo se usa en el proceso de publicación y empaquetado del proyecto web. Para personalizar el comportamiento de este proceso,
+edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 para obtener más información. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAlbnflJidGkG2Ec8XIcMshgAAAAACAAAAAAAQZgAAAAEAACAAAAB72Kse26Igr1sIaZLtMyijvYm+9SpXDbZMLDhgiIcezQAAAAAOgAAAAAIAACAAAAAJj/xDLXQPWeSWZwT0yTmqGm9IN+S5B3prDBUZCJPyZoAAAACc0G7pWj2weOGdlF/KKWZfVhhjeXq4N24McwLcNyPI9KIPB38YtcNADHAWDMC0LWEcJN2q5d42pmTZh+3NfiLfWwlVxPECUq7pO6/Vj4/HUkX+AlumNZffrXdRIZ6YPqVVyR3bztp4Lf5FMHHl5JWDqrkgmfgqXGhJlBiQ7/z7P0AAAADYlASYbyNkVe9ESUoLraAQbMVy80gb0SF62vqDS6pDiHUOPOwv73/Z9jiuTX6TsTN1JjT5WFRd0ZKVSJK0jxbt</EncryptedPassword>
+    <History>True|2022-11-11T20:13:07.6782759Z;False|2022-11-11T15:09:56.7009994-05:00;False|2022-11-11T15:08:25.5903286-05:00;False|2022-11-11T15:07:17.1949061-05:00;True|2022-11-11T14:57:59.3062788-05:00;True|2022-11-11T14:56:15.9387985-05:00;True|2022-11-11T14:42:18.1740172-05:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="prueba_1">
+      <Value>Server=lastmen-server.database.windows.net%3bDatabase=lastmendb%3bUser ID=lastmen-admin%3bPassword={4X7#zFb</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

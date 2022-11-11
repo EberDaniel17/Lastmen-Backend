@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "7u/UDY+mJopShBhDtb03rwhLTPF6Dqo6f9wUpPwNHUk=",
+  "Source": "PersonalApi",
+  "BasePath": "_content/PersonalApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "PersonalApi\\wwwroot",
+      "Source": "PersonalApi",
+      "ContentRoot": "D:\\BackendLastmen-master\\PersonalApi\\wwwroot\\",
+      "BasePath": "_content/PersonalApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

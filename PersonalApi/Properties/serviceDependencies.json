@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql",
+      "connectionId": "ConnectionStrings:prueba_1",
+      "dynamicId": null
+    },
+    "apis1": {
+      "type": "apis"
+    }
+  }
+}

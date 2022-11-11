@@ -1,0 +1,12 @@
+D:\BackendLastmen-master\Utilitarios\bin\Release\net6.0\Utilitarios.deps.json
+D:\BackendLastmen-master\Utilitarios\bin\Release\net6.0\Utilitarios.dll
+D:\BackendLastmen-master\Utilitarios\bin\Release\net6.0\Utilitarios.pdb
+D:\BackendLastmen-master\Utilitarios\obj\Release\net6.0\Utilitarios.csproj.AssemblyReference.cache
+D:\BackendLastmen-master\Utilitarios\obj\Release\net6.0\Utilitarios.GeneratedMSBuildEditorConfig.editorconfig
+D:\BackendLastmen-master\Utilitarios\obj\Release\net6.0\Utilitarios.AssemblyInfoInputs.cache
+D:\BackendLastmen-master\Utilitarios\obj\Release\net6.0\Utilitarios.AssemblyInfo.cs
+D:\BackendLastmen-master\Utilitarios\obj\Release\net6.0\Utilitarios.csproj.CoreCompileInputs.cache
+D:\BackendLastmen-master\Utilitarios\obj\Release\net6.0\Utilitarios.dll
+D:\BackendLastmen-master\Utilitarios\obj\Release\net6.0\refint\Utilitarios.dll
+D:\BackendLastmen-master\Utilitarios\obj\Release\net6.0\Utilitarios.pdb
+D:\BackendLastmen-master\Utilitarios\obj\Release\net6.0\ref\Utilitarios.dll
