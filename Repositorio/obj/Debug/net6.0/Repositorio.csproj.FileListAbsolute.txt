@@ -1,0 +1,169 @@
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Repositorio\bin\Debug\net6.0\Repositorio.deps.json
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Repositorio\bin\Debug\net6.0\Repositorio.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Repositorio\bin\Debug\net6.0\Repositorio.pdb
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Repositorio\bin\Debug\net6.0\Modelos.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Repositorio\bin\Debug\net6.0\Modelos.pdb
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Repositorio\obj\Debug\net6.0\Repositorio.csproj.AssemblyReference.cache
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Repositorio\obj\Debug\net6.0\Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Repositorio\obj\Debug\net6.0\Repositorio.AssemblyInfoInputs.cache
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Repositorio\obj\Debug\net6.0\Repositorio.AssemblyInfo.cs
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Repositorio\obj\Debug\net6.0\Repositorio.csproj.CoreCompileInputs.cache
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Repositorio\obj\Debug\net6.0\Repositorio.csproj.CopyComplete
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Repositorio\obj\Debug\net6.0\Repositorio.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Repositorio\obj\Debug\net6.0\ref\Repositorio.dll
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Repositorio\obj\Debug\net6.0\Repositorio.pdb
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Repositorio\bin\Debug\net6.0\Repositorio.runtimeconfig.json
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Repositorio\obj\Debug\net6.0\Repositorio.genruntimeconfig.cache
+F:\trash\ejemplo_rest_api\ejemplo_rest_api\Repositorio\obj\Debug\net6.0\refint\Repositorio.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Repositorio\bin\Debug\net6.0\Repositorio.deps.json
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Repositorio\bin\Debug\net6.0\Repositorio.runtimeconfig.json
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Repositorio\bin\Debug\net6.0\Repositorio.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Repositorio\bin\Debug\net6.0\Repositorio.pdb
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Repositorio\bin\Debug\net6.0\Modelos.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Repositorio\bin\Debug\net6.0\Modelos.pdb
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Repositorio\obj\Debug\net6.0\Repositorio.csproj.AssemblyReference.cache
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Repositorio\obj\Debug\net6.0\Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Repositorio\obj\Debug\net6.0\Repositorio.AssemblyInfoInputs.cache
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Repositorio\obj\Debug\net6.0\Repositorio.AssemblyInfo.cs
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Repositorio\obj\Debug\net6.0\Repositorio.csproj.CoreCompileInputs.cache
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Repositorio\obj\Debug\net6.0\Repositorio.csproj.CopyComplete
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Repositorio\obj\Debug\net6.0\Repositorio.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Repositorio\obj\Debug\net6.0\refint\Repositorio.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Repositorio\obj\Debug\net6.0\Repositorio.pdb
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Repositorio\obj\Debug\net6.0\Repositorio.genruntimeconfig.cache
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Repositorio\obj\Debug\net6.0\ref\Repositorio.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Repositorio\bin\Debug\net6.0\Utilitarios.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\ejemplo_rest_api\Repositorio\bin\Debug\net6.0\Utilitarios.pdb
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\Repositorio\bin\Debug\net6.0\Repositorio.deps.json
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\Repositorio\bin\Debug\net6.0\Repositorio.runtimeconfig.json
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\Repositorio\bin\Debug\net6.0\Repositorio.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\Repositorio\bin\Debug\net6.0\Repositorio.pdb
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\Repositorio\bin\Debug\net6.0\Modelos.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\Repositorio\bin\Debug\net6.0\Utilitarios.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\Repositorio\bin\Debug\net6.0\Modelos.pdb
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\Repositorio\bin\Debug\net6.0\Utilitarios.pdb
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\Repositorio\obj\Debug\net6.0\Repositorio.csproj.AssemblyReference.cache
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\Repositorio\obj\Debug\net6.0\Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\Repositorio\obj\Debug\net6.0\Repositorio.AssemblyInfoInputs.cache
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\Repositorio\obj\Debug\net6.0\Repositorio.AssemblyInfo.cs
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\Repositorio\obj\Debug\net6.0\Repositorio.csproj.CoreCompileInputs.cache
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\Repositorio\obj\Debug\net6.0\Repositorio.csproj.CopyComplete
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\Repositorio\obj\Debug\net6.0\Repositorio.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\Repositorio\obj\Debug\net6.0\refint\Repositorio.dll
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\Repositorio\obj\Debug\net6.0\Repositorio.pdb
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\Repositorio\obj\Debug\net6.0\Repositorio.genruntimeconfig.cache
+D:\Family\JUAN CARLOS\4TO SEMESTRE\Integración de Sistemas Empresariales\APLICATIVO WEB CAYA\ejemplo_rest_api\Repositorio\obj\Debug\net6.0\ref\Repositorio.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Repositorio\obj\Debug\net6.0\Repositorio.csproj.AssemblyReference.cache
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Repositorio\obj\Debug\net6.0\Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Repositorio\obj\Debug\net6.0\Repositorio.AssemblyInfoInputs.cache
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Repositorio\obj\Debug\net6.0\Repositorio.AssemblyInfo.cs
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Repositorio\obj\Debug\net6.0\Repositorio.csproj.CoreCompileInputs.cache
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Repositorio\obj\Debug\net6.0\Repositorio.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Repositorio\obj\Debug\net6.0\refint\Repositorio.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Repositorio\obj\Debug\net6.0\Repositorio.pdb
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Repositorio\bin\Debug\net6.0\Repositorio.deps.json
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Repositorio\bin\Debug\net6.0\Repositorio.runtimeconfig.json
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Repositorio\bin\Debug\net6.0\Repositorio.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Repositorio\bin\Debug\net6.0\Repositorio.pdb
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Repositorio\bin\Debug\net6.0\Modelos.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Repositorio\bin\Debug\net6.0\Utilitarios.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Repositorio\bin\Debug\net6.0\Modelos.pdb
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Repositorio\bin\Debug\net6.0\Utilitarios.pdb
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Repositorio\obj\Debug\net6.0\Repositorio.csproj.CopyComplete
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Repositorio\obj\Debug\net6.0\Repositorio.genruntimeconfig.cache
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto Productivo III B\LASTMEN\BACKEND\ejemplo_rest_api\Repositorio\obj\Debug\net6.0\ref\Repositorio.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\Repositorio\bin\Debug\net6.0\Repositorio.deps.json
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\Repositorio\bin\Debug\net6.0\Repositorio.runtimeconfig.json
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\Repositorio\bin\Debug\net6.0\Repositorio.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\Repositorio\bin\Debug\net6.0\Repositorio.pdb
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\Repositorio\bin\Debug\net6.0\Modelos.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\Repositorio\bin\Debug\net6.0\Utilitarios.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\Repositorio\bin\Debug\net6.0\Modelos.pdb
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\Repositorio\bin\Debug\net6.0\Utilitarios.pdb
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\Repositorio\obj\Debug\net6.0\Repositorio.csproj.AssemblyReference.cache
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\Repositorio\obj\Debug\net6.0\Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\Repositorio\obj\Debug\net6.0\Repositorio.AssemblyInfoInputs.cache
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\Repositorio\obj\Debug\net6.0\Repositorio.AssemblyInfo.cs
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\Repositorio\obj\Debug\net6.0\Repositorio.csproj.CoreCompileInputs.cache
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\Repositorio\obj\Debug\net6.0\Repositorio.csproj.CopyComplete
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\Repositorio\obj\Debug\net6.0\Repositorio.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\Repositorio\obj\Debug\net6.0\refint\Repositorio.dll
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\Repositorio\obj\Debug\net6.0\Repositorio.pdb
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\Repositorio\obj\Debug\net6.0\Repositorio.genruntimeconfig.cache
+D:\Family\JUAN-CARLOS\6TO-SEMESTRE\Proyecto-Productivo-III-B\LASTMEN\BACKEND\ejemplo_rest_api\Repositorio\obj\Debug\net6.0\ref\Repositorio.dll
+D:\LM\LastmenBackend\Repositorio\bin\Debug\net6.0\Repositorio.deps.json
+D:\LM\LastmenBackend\Repositorio\bin\Debug\net6.0\Repositorio.runtimeconfig.json
+D:\LM\LastmenBackend\Repositorio\bin\Debug\net6.0\Repositorio.dll
+D:\LM\LastmenBackend\Repositorio\bin\Debug\net6.0\Repositorio.pdb
+D:\LM\LastmenBackend\Repositorio\bin\Debug\net6.0\Modelos.dll
+D:\LM\LastmenBackend\Repositorio\bin\Debug\net6.0\Utilitarios.dll
+D:\LM\LastmenBackend\Repositorio\bin\Debug\net6.0\Modelos.pdb
+D:\LM\LastmenBackend\Repositorio\bin\Debug\net6.0\Utilitarios.pdb
+D:\LM\LastmenBackend\Repositorio\obj\Debug\net6.0\Repositorio.csproj.AssemblyReference.cache
+D:\LM\LastmenBackend\Repositorio\obj\Debug\net6.0\Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+D:\LM\LastmenBackend\Repositorio\obj\Debug\net6.0\Repositorio.AssemblyInfoInputs.cache
+D:\LM\LastmenBackend\Repositorio\obj\Debug\net6.0\Repositorio.AssemblyInfo.cs
+D:\LM\LastmenBackend\Repositorio\obj\Debug\net6.0\Repositorio.csproj.CoreCompileInputs.cache
+D:\LM\LastmenBackend\Repositorio\obj\Debug\net6.0\Repositorio.csproj.CopyComplete
+D:\LM\LastmenBackend\Repositorio\obj\Debug\net6.0\Repositorio.dll
+D:\LM\LastmenBackend\Repositorio\obj\Debug\net6.0\refint\Repositorio.dll
+D:\LM\LastmenBackend\Repositorio\obj\Debug\net6.0\Repositorio.pdb
+D:\LM\LastmenBackend\Repositorio\obj\Debug\net6.0\Repositorio.genruntimeconfig.cache
+D:\LM\LastmenBackend\Repositorio\obj\Debug\net6.0\ref\Repositorio.dll
+E:\Lasnet\BackendLastmen\Repositorio\bin\Debug\net6.0\Repositorio.deps.json
+E:\Lasnet\BackendLastmen\Repositorio\bin\Debug\net6.0\Repositorio.runtimeconfig.json
+E:\Lasnet\BackendLastmen\Repositorio\bin\Debug\net6.0\Repositorio.dll
+E:\Lasnet\BackendLastmen\Repositorio\bin\Debug\net6.0\Repositorio.pdb
+E:\Lasnet\BackendLastmen\Repositorio\bin\Debug\net6.0\Modelos.dll
+E:\Lasnet\BackendLastmen\Repositorio\bin\Debug\net6.0\Utilitarios.dll
+E:\Lasnet\BackendLastmen\Repositorio\bin\Debug\net6.0\Modelos.pdb
+E:\Lasnet\BackendLastmen\Repositorio\bin\Debug\net6.0\Utilitarios.pdb
+E:\Lasnet\BackendLastmen\Repositorio\obj\Debug\net6.0\Repositorio.csproj.AssemblyReference.cache
+E:\Lasnet\BackendLastmen\Repositorio\obj\Debug\net6.0\Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lasnet\BackendLastmen\Repositorio\obj\Debug\net6.0\Repositorio.AssemblyInfoInputs.cache
+E:\Lasnet\BackendLastmen\Repositorio\obj\Debug\net6.0\Repositorio.AssemblyInfo.cs
+E:\Lasnet\BackendLastmen\Repositorio\obj\Debug\net6.0\Repositorio.csproj.CoreCompileInputs.cache
+E:\Lasnet\BackendLastmen\Repositorio\obj\Debug\net6.0\Repositorio.csproj.CopyComplete
+E:\Lasnet\BackendLastmen\Repositorio\obj\Debug\net6.0\Repositorio.dll
+E:\Lasnet\BackendLastmen\Repositorio\obj\Debug\net6.0\refint\Repositorio.dll
+E:\Lasnet\BackendLastmen\Repositorio\obj\Debug\net6.0\Repositorio.pdb
+E:\Lasnet\BackendLastmen\Repositorio\obj\Debug\net6.0\Repositorio.genruntimeconfig.cache
+E:\Lasnet\BackendLastmen\Repositorio\obj\Debug\net6.0\ref\Repositorio.dll
+E:\Lastmen\BackendLastmen\Repositorio\bin\Debug\net6.0\Repositorio.deps.json
+E:\Lastmen\BackendLastmen\Repositorio\bin\Debug\net6.0\Repositorio.runtimeconfig.json
+E:\Lastmen\BackendLastmen\Repositorio\bin\Debug\net6.0\Repositorio.dll
+E:\Lastmen\BackendLastmen\Repositorio\bin\Debug\net6.0\Repositorio.pdb
+E:\Lastmen\BackendLastmen\Repositorio\bin\Debug\net6.0\Modelos.dll
+E:\Lastmen\BackendLastmen\Repositorio\bin\Debug\net6.0\Utilitarios.dll
+E:\Lastmen\BackendLastmen\Repositorio\bin\Debug\net6.0\Modelos.pdb
+E:\Lastmen\BackendLastmen\Repositorio\bin\Debug\net6.0\Utilitarios.pdb
+E:\Lastmen\BackendLastmen\Repositorio\obj\Debug\net6.0\Repositorio.csproj.AssemblyReference.cache
+E:\Lastmen\BackendLastmen\Repositorio\obj\Debug\net6.0\Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lastmen\BackendLastmen\Repositorio\obj\Debug\net6.0\Repositorio.AssemblyInfoInputs.cache
+E:\Lastmen\BackendLastmen\Repositorio\obj\Debug\net6.0\Repositorio.AssemblyInfo.cs
+E:\Lastmen\BackendLastmen\Repositorio\obj\Debug\net6.0\Repositorio.csproj.CoreCompileInputs.cache
+E:\Lastmen\BackendLastmen\Repositorio\obj\Debug\net6.0\Repositorio.csproj.CopyComplete
+E:\Lastmen\BackendLastmen\Repositorio\obj\Debug\net6.0\Repositorio.dll
+E:\Lastmen\BackendLastmen\Repositorio\obj\Debug\net6.0\refint\Repositorio.dll
+E:\Lastmen\BackendLastmen\Repositorio\obj\Debug\net6.0\Repositorio.pdb
+E:\Lastmen\BackendLastmen\Repositorio\obj\Debug\net6.0\Repositorio.genruntimeconfig.cache
+E:\Lastmen\BackendLastmen\Repositorio\obj\Debug\net6.0\ref\Repositorio.dll
+D:\BackendLastmen-master\Repositorio\bin\Debug\net6.0\Repositorio.deps.json
+D:\BackendLastmen-master\Repositorio\bin\Debug\net6.0\Repositorio.runtimeconfig.json
+D:\BackendLastmen-master\Repositorio\bin\Debug\net6.0\Repositorio.dll
+D:\BackendLastmen-master\Repositorio\bin\Debug\net6.0\Repositorio.pdb
+D:\BackendLastmen-master\Repositorio\bin\Debug\net6.0\Modelos.dll
+D:\BackendLastmen-master\Repositorio\bin\Debug\net6.0\Utilitarios.dll
+D:\BackendLastmen-master\Repositorio\bin\Debug\net6.0\Modelos.pdb
+D:\BackendLastmen-master\Repositorio\bin\Debug\net6.0\Utilitarios.pdb
+D:\BackendLastmen-master\Repositorio\obj\Debug\net6.0\Repositorio.csproj.AssemblyReference.cache
+D:\BackendLastmen-master\Repositorio\obj\Debug\net6.0\Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+D:\BackendLastmen-master\Repositorio\obj\Debug\net6.0\Repositorio.AssemblyInfoInputs.cache
+D:\BackendLastmen-master\Repositorio\obj\Debug\net6.0\Repositorio.AssemblyInfo.cs
+D:\BackendLastmen-master\Repositorio\obj\Debug\net6.0\Repositorio.csproj.CoreCompileInputs.cache
+D:\BackendLastmen-master\Repositorio\obj\Debug\net6.0\Repositorio.csproj.CopyComplete
+D:\BackendLastmen-master\Repositorio\obj\Debug\net6.0\Repositorio.dll
+D:\BackendLastmen-master\Repositorio\obj\Debug\net6.0\refint\Repositorio.dll
+D:\BackendLastmen-master\Repositorio\obj\Debug\net6.0\Repositorio.pdb
+D:\BackendLastmen-master\Repositorio\obj\Debug\net6.0\Repositorio.genruntimeconfig.cache
+D:\BackendLastmen-master\Repositorio\obj\Debug\net6.0\ref\Repositorio.dll
